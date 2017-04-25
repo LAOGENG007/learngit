@@ -8,3 +8,5 @@ git tracks changes of files.
 sdfksdjflsdjflkdj
 Creating a new branch is quick and simple.
 
+add merge
+
